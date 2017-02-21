@@ -11,3 +11,12 @@ To install:
 1. go get github.com/mjibson/go-dsp/fft
 
 2. go get github.com/jonysugianto/vad_lsfm
+
+3. cd vad_lsfm/example
+
+4. go build
+
+5. ./example
+
+6. look at the wave.png and lsfm.png
+
